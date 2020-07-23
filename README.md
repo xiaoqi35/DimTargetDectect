@@ -40,6 +40,6 @@ This project exists thanks to my tutor yin. And about the research of dim moving
 
 
 
-## License
+## Contact
 
-[shanghaitech](LICENSE) © xiaoqi
+xiaoqidd@shanghaitech.edu.cn
