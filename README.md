@@ -37,7 +37,7 @@ Standard Readme is designed for open source libraries. Although it’s [historic
 
 ## Install
 
-This project uses [matlab](https://ww2.mathworks.cn/downloads/web_downloads/).Whether it is based windows or Linux, it can be okay! Go check them out if you don't have them locally installed.
+This project uses [matlab](https://ww2.mathworks.cn/downloads/web_downloads/). Whether it is based windows or Linux, it can be okay! Go check them out if you don't have them locally installed.
 
 ```sh
 $ npm install --global standard-readme-spec
@@ -45,41 +45,15 @@ $ npm install --global standard-readme-spec
 
 ## Usage
 
-This is only a documentation package. You can print out [spec.md](spec.md) to your console:
-
-```sh
-$ standard-readme-spec
-# Prints out the standard-readme spec
-```
+After your matlab done, run it and locate your directory. Carefully! Please add the project directory into executable path.  
 
 ### Generator
 
 To use the generator, look at [generator-standard-readme](https://github.com/RichardLitt/generator-standard-readme). There is a global executable to run the generator in that package, aliased as `standard-readme`.
 
-## Badge
-
-If your README is compliant with Standard-Readme and you're on GitHub, it would be great if you could add the badge. This allows people to link back to this Spec, and helps adoption of the README. The badge is **not required**.
-
-[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
-
-To add in Markdown format, use this code:
-
-```
-[![standard-readme compliant](https://img.shields.io/badge/readme%20style-standard-brightgreen.svg?style=flat-square)](https://github.com/RichardLitt/standard-readme)
-```
-
 ## Example Readmes
 
 To see how the specification has been applied, see the [example-readmes](example-readmes/).
-
-## Related Efforts
-
-- [Art of Readme](https://github.com/noffle/art-of-readme) - 💌 Learn the art of writing quality READMEs.
-- [open-source-template](https://github.com/davidbgk/open-source-template/) - A README template to encourage open-source contributions.
-
-## Maintainers
-
-[@RichardLitt](https://github.com/RichardLitt).
 
 ## Contributing
 
@@ -95,4 +69,4 @@ This project exists thanks to all the people who contribute.
 
 ## License
 
-[MIT](LICENSE) © Richard Littauer
+[shanghaitech](LICENSE) © xiaoqi
