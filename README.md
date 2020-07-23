@@ -8,25 +8,17 @@ The code of the whole project runs in Matlab environment. And the version of Mat
 
 This repository contains:
 
-1. [The specification](spec.md) for how a standard README should look.
-2. A link to a linter you can use to keep your README maintained ([work in progress](https://github.com/RichardLitt/standard-readme/issues/5)).
-3. A link to [a generator](https://github.com/RichardLitt/generator-standard-readme) you can use to create standard READMEs.
-4. [A badge](#badge) to point to this spec.
-5. [Examples of standard READMEs](example-readmes/) - such as this file you are reading.
-
-Standard Readme is designed for open source libraries. Although it’s [historically](#background) made for Node and npm projects, it also applies to libraries in other languages and package managers.
-
+1. [README](README.md) for how a standard README should look.
+2. [data](./data/) A folder for storing data.
+3. [./uitil](./uitil/) A folder filled by the IO files, and these files read/print image or video.
+4. [other] Architech of detection: main* are main file and others are functions. Maybe you need to tune param struct data for detecting.
 
 ## Table of Contents
 
 - [Background](#background)
 - [Install](#install)
 - [Usage](#usage)
-	- [Generator](#generator)
-- [Badge](#badge)
 - [Example Readmes](#example-readmes)
-- [Related Efforts](#related-efforts)
-- [Maintainers](#maintainers)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -39,10 +31,6 @@ Standard Readme is designed for open source libraries. Although it’s [historic
 
 This project uses [matlab](https://ww2.mathworks.cn/downloads/web_downloads/). Whether it is based windows or Linux, it can be okay! Go check them out if you don't have them locally installed.
 
-```sh
-$ npm install --global standard-readme-spec
-```
-
 ## Usage
 
 After your matlab done, run it and locate your directory. Carefully! Please add the project directory into executable path.  
@@ -54,12 +42,6 @@ To use the generator, look at [generator-standard-readme](https://github.com/Ric
 ## Example Readmes
 
 To see how the specification has been applied, see the [example-readmes](example-readmes/).
-
-## Contributing
-
-Feel free to dive in! [Open an issue](https://github.com/RichardLitt/standard-readme/issues/new) or submit PRs.
-
-Standard Readme follows the [Contributor Covenant](http://contributor-covenant.org/version/1/3/0/) Code of Conduct.
 
 ### Contributors
 
