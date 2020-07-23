@@ -9,8 +9,8 @@ The code of the whole project runs in Matlab environment. And the version of Mat
 This repository contains:
 
 1. [README](README.md) for how a standard README should look.
-2. [data](./data/) A folder for storing data.
-3. [./uitil](./uitil/) A folder filled by the IO files, and these files read/print image or video.
+2. [./data](./data/) A folder for storing data.
+3. [./util](./util/) A folder filled by the IO files, and these files read/print image or video.
 4. [other] Architech of detection: main* are main file and others are functions. Maybe you need to tune param struct data for detecting.
 
 ## Table of Contents
@@ -18,7 +18,6 @@ This repository contains:
 - [Background](#background)
 - [Install](#install)
 - [Usage](#usage)
-- [Example Readmes](#example-readmes)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -35,18 +34,10 @@ This project uses [matlab](https://ww2.mathworks.cn/downloads/web_downloads/). W
 
 After your matlab done, run it and locate your directory. Carefully! Please add the project directory into executable path.  
 
-### Generator
+## Contributors
 
-To use the generator, look at [generator-standard-readme](https://github.com/RichardLitt/generator-standard-readme). There is a global executable to run the generator in that package, aliased as `standard-readme`.
+This project exists thanks to my tutor yin. And about the research of dim moving point target' dection which under the code, I will publish soonly as my paper of postgraduate.
 
-## Example Readmes
-
-To see how the specification has been applied, see the [example-readmes](example-readmes/).
-
-### Contributors
-
-This project exists thanks to all the people who contribute. 
-<a href="graphs/contributors"><img src="https://opencollective.com/standard-readme/contributors.svg?width=890&button=false" /></a>
 
 
 ## License
