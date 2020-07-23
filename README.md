@@ -18,8 +18,8 @@ This repository contains:
 - [Background](#background)
 - [Install](#install)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
+- [Contributing](#Contributing)
+- [Contact](#Contact)
 
 ## Background
 
@@ -34,7 +34,7 @@ This project uses [matlab](https://ww2.mathworks.cn/downloads/web_downloads/). W
 
 After your matlab done, run it and locate your directory. Carefully! Please add the project directory into executable path.  
 
-## Contributors
+## Contributing
 
 This project exists thanks to my tutor yin. And about the research of dim moving point target' dection which under the code, I will publish soonly as my paper of postgraduate.
 
