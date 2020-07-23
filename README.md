@@ -32,12 +32,12 @@ Standard Readme is designed for open source libraries. Although it’s [historic
 
 ## Background
 
-Dim moving target detection and tracking technology has been a hot topic in the field of space remote sensing. At present, the miniaturization and high speed of the moving target to be detected and the further improvement of the detection range make the problem more complex. The civil aviation system uses the detection system based on visible light imaging to detect small targets moving in the radar blind area near the aircraft, such as birds, small unmanned aerial vehicles, etc., so as to avoid collision accidents between civil aircraft and these small targets. 
-On the other hand, this dim target detection system can be used to detect space debris, meteorites and small meteors that endanger spacecraft in space exploration, so as to detect and warn in advance, so as to prepare for re planning the route or anti-collision. The detection system can find more faint asteroids and draw the track, which provides technical support for astrology, astronomy and other research.
+1. Dim moving target detection and tracking technology has been a hot topic in the field of space remote sensing. At present, the miniaturization and high speed of the moving target to be detected and the further improvement of the detection range make the problem more complex. The civil aviation system uses the detection system based on visible light imaging to detect small targets moving in the radar blind area near the aircraft, such as birds, small unmanned aerial vehicles, etc., so as to avoid collision accidents between civil aircraft and these small targets. 
+2. On the other hand, this dim target detection system can be used to detect space debris, meteorites and small meteors that endanger spacecraft in space exploration, so as to detect and warn in advance, so as to prepare for re planning the route or anti-collision. The detection system can find more faint asteroids and draw the track, which provides technical support for astrology, astronomy and other research.
 
 ## Install
 
-This project uses [node](http://nodejs.org) and [npm](https://npmjs.com). Go check them out if you don't have them locally installed.
+This project uses [matlab](https://ww2.mathworks.cn/downloads/web_downloads/).Whether it is based windows or Linux, it can be okay! Go check them out if you don't have them locally installed.
 
 ```sh
 $ npm install --global standard-readme-spec
